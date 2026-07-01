@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0449/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十二品生死經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0753.xml
+    old_id: T17n0753
+hash: sha256:3978199b29d5043f2817235f6151c4d5a0c5e2b755a2d416dfb7d4ee4da82f3c

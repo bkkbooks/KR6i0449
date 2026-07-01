@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0449/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0449/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十二品生死經
+  identifiers:
+    krp: KR6i0449
+    cbeta: T17n0753
+    cbeta_old_id: T17n0753
+    authorityid: CA0003047
+    json_key: T0753
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0753.xml
+    old_id: T17n0753
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0449_000-T.yaml, hash: 'sha256:3978199b29d5043f2817235f6151c4d5a0c5e2b755a2d416dfb7d4ee4da82f3c'}
+  - {seq: 1, filename: KR6i0449_001-T.yaml, hash: 'sha256:87d6a784376ecfdf5b0fe0e917cccf325c60212392c0f1df1771f0e9259d3d1a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0449_000-T.markers.yaml, hash: 'sha256:2425a5ca407002ecf245e4789e8eadc15ddbf78da365e2e5c56901ea6f505657'}
+  - {seq: 1, role: markers, filename: assets/KR6i0449_001-T.markers.yaml, hash: 'sha256:3299cef3a020bc1e1cc86c7d5a66aa4a89ab7ddb9bd902936537c9ebb72d05e3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0449_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 317
+  label: 十二品生死經
+  type: juan
+  level: 1
+hash: sha256:142ace55de561ca21afafe1e9249c26dcdeb54d94d9feda0b45b343794a83455
