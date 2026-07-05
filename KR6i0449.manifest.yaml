@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0449_000.yaml, hash: 'sha256:3978199b29d5043f2817235f6151c4d5a0c5e2b755a2d416dfb7d4ee4da82f3c'}
-  - {seq: 1, filename: KR6i0449_001.yaml, hash: 'sha256:93b189c428cd63e58f671ff4219210b84733ba0af63f416f1e05028958c2f7e2'}
+  - {seq: 1, filename: KR6i0449_001.yaml, hash: 'sha256:87d6a784376ecfdf5b0fe0e917cccf325c60212392c0f1df1771f0e9259d3d1a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0449_001.markers.yaml, hash: 'sha256:72b360ca1e41fc790d41c09e007463598992f486051fd9e11bc616b9caf16a01'}
+  - {seq: 0, role: markers, filename: assets/KR6i0449_000.markers.yaml, hash: 'sha256:d680f1176d652aaec5f74061ac6d84579d25a981e38c6ee4356dc16213d0af72'}
+  - {seq: 1, role: markers, filename: assets/KR6i0449_001.markers.yaml, hash: 'sha256:05fe0332bd7487f72a9cd8ee4482f23eb9ae3ac5e95de4a3b714987dd7da858b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 十二品生死經
   type: juan
   level: 1
-hash: sha256:140e9227052e53619fc76008ff860549d709a111e47b45ac0685b41ea9cfb355
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9df87fd18d8e60233f16ae9491c6d8cb7706cea52347966e389a1b097274d4c7
