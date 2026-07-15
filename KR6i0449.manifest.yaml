@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0449/v1
 canonical_location: https://kanripo.org/bkk/KR6i0449/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 十二品生死經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0449_000.yaml, hash: 'sha256:3978199b29d5043f2817235f6151c4d5a0c5e2b755a2d416dfb7d4ee4da82f3c'}
-  - {seq: 1, filename: KR6i0449_001.yaml, hash: 'sha256:87d6a784376ecfdf5b0fe0e917cccf325c60212392c0f1df1771f0e9259d3d1a'}
+  - {seq: 1, filename: KR6i0449_001.yaml, hash: 'sha256:aad10151f94519e908e7085a1893bc184c19bb9f8d347d0bb0b824fbfbd34657'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0449_000.markers.yaml, hash: 'sha256:d680f1176d652aaec5f74061ac6d84579d25a981e38c6ee4356dc16213d0af72'}
-  - {seq: 1, role: markers, filename: assets/KR6i0449_001.markers.yaml, hash: 'sha256:05fe0332bd7487f72a9cd8ee4482f23eb9ae3ac5e95de4a3b714987dd7da858b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0449_001.markers.yaml, hash: 'sha256:094d8ef09129a3f71065771748d89db7c4b09e7675ac9c950e2a0dd0b31a0f35'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 十二品生死經
   type: juan
   level: 1
-hash: sha256:9df87fd18d8e60233f16ae9491c6d8cb7706cea52347966e389a1b097274d4c7
+hash: sha256:9afe872a86788b69c9708d905c0bea2f446798583b9a3d91dffca1c58ef93755
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
